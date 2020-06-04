@@ -1,0 +1,19 @@
+{
+  "name": "node-hangman",
+  "version": "1.0.0",
+  "description": "Hangman Game - Play From Command Line",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "ts-node src/index.ts"
+  },
+  "author": "Ravi Patel",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.3",
+    "tslint": "^5.20.1"
+  },
+  "dependencies": {
+    "@types/node": "^12.12.21"
+  }
+}
